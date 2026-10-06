@@ -1,0 +1,4 @@
+# app-ads.txt for Shklala Studio (Nova 2048)
+# Google AdMob
+google.com, pub-3808689323381465, DIRECT, f08c47fec0942fa0
+# Add each mediation partner's line below after you enable it in AdMob (AppLovin, Unity, Meta, Mintegral, Pangle, Liftoff).
